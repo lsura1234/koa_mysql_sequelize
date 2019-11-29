@@ -1,0 +1,7 @@
+node_modules/
+build/
+coverage/
+.env
+yarn-error*
+npm-debug.log
+~
